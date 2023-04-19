@@ -37,7 +37,7 @@ function Projects() {
        
    
         <Card.Text>
-        <h1>Social Posts</h1>
+        <h1>Point of sale application (POS)</h1>
        <a href="https://github.com/ZacharyNWilliams/social-posts"><h1>Github Link</h1></a>
         
         

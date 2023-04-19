@@ -15,7 +15,7 @@ import "../src/css/Experience.css"
 import "../src/css/Projects.css"
 import "../src/css/Skills.css"
 
-import "../src/css/Background.css"
+
 import RedBackground from '/Users/williams/Grand_Circus/projects/React-Portfolio/portfolio-project/src/Images/RedBackground.png'
 import About from './components/About';
 import Experience from './components/Experience';
