@@ -38,7 +38,7 @@ function Projects() {
    
         <Card.Text>
         <h1>Point of sale application (POS)</h1>
-       <a href="https://github.com/ZacharyNWilliams/social-posts"><h1>Github Link</h1></a>
+       <a href="https://github.com/ZacharyNWilliams/Shopping-Cart"><h1>Github Link</h1></a>
         
         
        Developed a point-of-sale website application that allows users to add or edit items in their shopping cart, check out, and choose the option to pay with cash or card.
