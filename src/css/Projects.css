@@ -1,0 +1,48 @@
+.Project-Cards-Div{
+    /* background-image:url("/Users/williams/Grand_Circus/projects/React-Portfolio/portfolio-project/src/Images/download (3).png") ; */
+   background-repeat: no-repeat;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: contain;
+   background-size: cover;
+  
+   margin: auto;
+}
+.Projects-Title{
+    background-color: #012b3b;
+    color: white;
+    padding: 1rem;
+    font-family: "Roboto", sans-serif;
+    padding: 1em;
+    
+    
+}
+.Project-Cards-Div{
+    padding: 2em;
+    margin: auto;
+    
+}
+#Projects-Card{
+    width: 25em;
+    box-shadow:  10px 10px;
+}
+#Projects-Card img{
+    width: 15em;
+    border: black 1px solid;
+}
+
+@media screen and (min-width: 300px) {
+    .Project-Cards-Div{
+        display: flex;
+        justify-content: center;
+        
+        flex-wrap: wrap;
+    }
+    #Projects-Card{
+        margin: 2em;
+        border: 2px black solid;
+    }
+    
+  }
+  

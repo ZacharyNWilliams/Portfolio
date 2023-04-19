@@ -1,0 +1,44 @@
+.Contact-Title{
+    background-color: #012b3b;
+    color: white;
+    padding: 1rem;
+    font-family: "Roboto", sans-serif;
+    
+    
+}
+
+.Contact-Button-Logos{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin:  auto;
+}
+
+#Github-Logo{
+    background: url("/Users/williams/Grand_Circus/projects/React-Portfolio/portfolio-project/src/Images/Sjsu.png");
+    background-repeat: no-repeat;
+    
+}
+
+#Contact-LinkedIn-Logo, #Contact-Gmail-Logo, #Contact-Github-Logo{
+    margin: 1em 7em 1em 7em;
+    width: 2em;
+}
+
+#Contact-Cards{
+    display: flex;
+   
+    justify-content: center;
+    margin: 1em
+}
+.Contact-Email{
+text-decoration: none;
+font-style: normal;
+list-style: none;
+
+ color: black;
+}
+/* 
+.Contact-Email a:hover{
+    color: bisque;
+} */

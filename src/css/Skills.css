@@ -1,0 +1,30 @@
+#Skill-Card{
+   width: 5.5em;
+   margin :2em;
+   display: block;
+   flex-wrap: nowrap;
+   
+}
+
+.Skills-Cards{
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+width: 100%;
+margin: auto;
+flex-wrap: wrap;
+
+
+}
+
+.card{
+    border: 0;
+}
+.Skills-Title{
+    background-color: #012b3b;
+    color: white;
+    padding: 1rem;
+    font-family: "Roboto", sans-serif;
+    
+    
+}

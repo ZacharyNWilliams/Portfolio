@@ -1,0 +1,122 @@
+.Experience-Cards-Div{
+    /* background-image:url("/Users/williams/Grand_Circus/projects/React-Portfolio/portfolio-project/src/Images/download (3).png") ; */
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: contain;
+    background-size: cover;
+    
+  
+}
+.Experience-Cards{
+    padding: 2em;
+    border: 1px solid black;
+    margin: 2em;
+    box-shadow:  10px 10px;
+}
+
+.Experience-title{
+    background-color: #012b3b;
+    color: white;
+    height: auto;
+    padding: .5em;
+    font-family: "Roboto", sans-serif;
+   
+    
+}
+.d-block {
+background-color: aqua;
+}
+.h3-thang{
+    color: green;
+}
+#TapBox-Card-Image, #HomeMore-Card-Image, #Infinite-Card-Image{
+width: 25%;
+margin: auto;
+margin: auto;
+padding-top: 1em;
+max-width: 15em;
+
+}
+
+#Tapbox-Card-Body,#HomeMore-Card-Body, #Infinite-Card-Body{
+    margin: auto;
+    width: 100%;
+    font-size: smaller;
+    
+}
+#Tapbox-Card-Title, #HomeMore-Card-Title, #Infinite-Card-Title{
+    width: 100%;
+    /* color: blueviolet; */
+    margin: auto;
+    
+}
+
+#Tapbox-Card-Position, #HomeMore-Card-Position, #Infinite-Card-Position{
+    width: 100%;
+    font-size: large;
+    /* color: darkcyan; */
+    margin: auto;
+    text-align: left;
+    margin-top: 2em;
+    margin-bottom: .5em;
+}
+#Experience-Dates{
+    text-align: left;
+    font-size: medium;
+    color: black;
+    opacity: 50%;
+}
+
+#Tapbox-Card-Summary, #HomeMore-Card-Summary, #Infinite-Card-Summary{
+    text-align: left;
+    margin: 0;
+    width: 100%;
+}
+#Company-Summary{
+    text-align: left;
+}
+
+/* @media only screen and (max-width: 800px) {
+    .Experience-Cards {
+        margin: auto;
+        display: flex;
+        flex-direction: column;
+ 
+    }
+  } */
+
+ 
+@media screen and (min-width: 710px) {
+    #Hartnell-College-Education-Card, #Grand-Circus-Education-Card, #San-Jose-State-Education-Card {
+      
+      display: flex;
+      justify-content: space-between;
+        width: 20em;
+     
+      
+
+    }
+    .Contact-Cards{
+        margin: auto;
+        flex-wrap: wrap;
+        flex-direction: row;
+        display: flex;
+        
+        
+    }
+    #Tapbox-Card-Body,#HomeMore-Card-Body, #Infinite-Card-Body{
+        margin: auto;
+        width: 100%;
+        font-size: large
+        
+    }
+    #Tapbox-Card-Title, #HomeMore-Card-Title, #Infinite-Card-Title{
+        width: 100%;
+       
+        margin: auto;
+        font-size: xx-large;
+        
+    }
+  }

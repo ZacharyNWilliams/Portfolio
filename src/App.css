@@ -27,6 +27,23 @@
 .App-link {
   color: #61dafb;
 }
+.App{
+  
+ 
+ background-repeat: no-repeat;
+ 
+ 
+ 
+ background-size: cover;
+ 
+}
+.App{
+  /* background-image: url("/Users/williams/Grand_Circus/projects/React-Portfolio/portfolio-project/src/Images/bluegradient 1.png"); */
+  background-repeat: no-repeat;
+height: 100%;
+
+}
+
 
 @keyframes App-logo-spin {
   from {
@@ -36,3 +53,4 @@
     transform: rotate(360deg);
   }
 }
+

@@ -1,0 +1,17 @@
+#home{
+    color: aqua;
+}
+
+#basic-navbar-nav{
+    color: aqua;
+}
+
+.navbar-brand{
+    background-color: aqua;
+}
+
+Nav, #Nav-Name {
+    font-family: "Roboto", sans-serif;
+    font-weight: bold;
+    color: #012b3b;
+}
