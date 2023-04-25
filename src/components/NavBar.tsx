@@ -25,7 +25,7 @@ function NavBar(){
               <Nav.Link  href="#About-Section">About</Nav.Link>
               <NavDropdown title="Projects" id="basic-nav-dropdown">
               <NavDropdown.Item href="#Projects-Section">GraveBook</NavDropdown.Item>
-                <NavDropdown.Item href="#Projects-Section">Social Posts Project</NavDropdown.Item>
+                <NavDropdown.Item href="#Projects-Section">Movie App</NavDropdown.Item>
                 <NavDropdown.Item href="#Projects-Section">POS Shopping Website</NavDropdown.Item>
                 <NavDropdown.Divider />
               </NavDropdown>
