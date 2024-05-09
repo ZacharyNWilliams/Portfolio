@@ -1,0 +1,30 @@
+.Volunteering-Title{
+    background-color: #012b3b;
+    color: white;
+    padding: 1rem;
+    font-family: "Roboto", sans-serif;
+    
+    
+}
+
+
+@media screen and (min-width: 300px) {
+    #Volunteering-Card-1, #Volunteering-Card-2{
+      
+      display: flex;
+      justify-content: space-between;
+        width: 20em;
+     
+      
+
+    }
+    .Volunteering-Cards{
+        margin: auto;
+        flex-wrap: wrap;
+        flex-direction: row;
+        display: flex;
+        justify-content: space-around;
+        
+        
+    }
+  }

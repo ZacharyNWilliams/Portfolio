@@ -14,6 +14,7 @@ import "../src/css/Education.css"
 import "../src/css/Experience.css"
 import "../src/css/Projects.css"
 import "../src/css/Skills.css"
+import "../src/css/Volunteering.css"
 
 
 import RedBackground from '/Users/williams/Grand_Circus/projects/React-Portfolio/portfolio-project/src/Images/RedBackground.png'
@@ -28,6 +29,7 @@ import YellowBlue from '/Users/williams/Grand_Circus/projects/React-Portfolio/po
 import Abstract from '/Users/williams/Grand_Circus/projects/React-Portfolio/portfolio-project/src/Images/Abstract.png'
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import NavBar from './components/NavBar';
+import Volunteering from './components/Volunteering';
 function App() {
   return (
     <div  className="App">
@@ -65,6 +67,7 @@ function App() {
       <section id='Skills-Section'><Skills/></section>
       
       <section id='Education-Section'><Education/></section>
+      <section id='Education-Section'><Volunteering/></section>
       
       
       <section id='Contact-Section'><Contact/></section>

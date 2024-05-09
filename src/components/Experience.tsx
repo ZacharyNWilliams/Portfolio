@@ -27,7 +27,7 @@ function Experience(){
     <Card.Img id='TapBox-Card-Image' variant="top" src={TapBox} />
     <Card.Body id='Tapbox-Card-Body'>
       <Card.Title id='Tapbox-Card-Title'>TapBox LLC.</Card.Title>
-      <h4 id='Tapbox-Card-Position'>Digital Marketing Associate</h4>
+      <h4 id='Tapbox-Card-Position'>Digital Marketing Assistant</h4>
       <h4 id='Experience-Dates'>Dec. 2021 – Present | City of Industry, CA</h4>
       <p id='Company-Summary'>Interactive Media Startup</p>
       <Card.Text id='Tapbox-Card-Summary'>

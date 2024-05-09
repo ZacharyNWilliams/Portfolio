@@ -32,6 +32,7 @@ function NavBar(){
               <Nav.Link  href="#Experience-Section">Experience</Nav.Link>
               <Nav.Link href="#Skills-Section">Skills</Nav.Link>
               <Nav.Link href="#Education-Section">Education</Nav.Link>
+              <Nav.Link href="#Education-Section">Volunteering</Nav.Link>
               <Nav.Link href="#Contact-Section">Contact</Nav.Link>
 
             </Nav>

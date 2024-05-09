@@ -7,7 +7,7 @@ function Contact() {
     <div>
     <h1 className='Contact-Title'>Contact</h1>
     
-    <a className='Contact-Email' href ="mailto: Zacharynwilliams9@gmail.com"><h1 > Zacharynwilliams9@gmail.com </h1></a>
+    <a className='Contact-Email' href ="mailto: Zacharynwilliams11@gmail.com"><h1 > Zacharynwilliams11@gmail.com </h1></a>
     <div id='Contact-Cards' >
     
     {/* <div className='Contact-Email'>
@@ -25,7 +25,7 @@ function Contact() {
        
        <Card id='/Users/williams/Grand_Circus/projects/React-Portfolio/portfolio-project/src/Images/Linkedin.png' >
         <div id='Contact-LinkedIn-Logo'>
-        <a href="https://www.linkedin.com/in/zacharynwilliams/">
+        <a href="https://www.linkedin.com/in/zacharywilliams11/">
       <Card.Img variant="top" src={LinkedIn} />
       </a>
       </div>
