@@ -35,7 +35,7 @@ return( <div>
         <Card.Title>Community Volunteer</Card.Title>
         <Card.Subtitle className="mb-2 text-muted">Jun. 2023 – Present | Salinas, CA</Card.Subtitle>
         <Card.Text>
-        <p>Dedicated volunteer actively engaged in community-based initiatives centered on enhancing the local environment and promoting inclusivity. Contribute significantly to park cleanups, facilitate improvements in handicapped accessibility, and provide steadfast support to park maintenance endeavors. Demonstrates a resolute commitment to fostering a cleaner and more accessible community for all.</p>
+        <p>Passionate volunteer dedicated to community-driven initiatives for a cleaner environment and inclusive spaces. Actively involved in park cleanups, enhancing accessibility, and supporting maintenance efforts. Committed to creating a more accessible and welcoming community.</p>
        
         </Card.Text>
       </Card.Body>

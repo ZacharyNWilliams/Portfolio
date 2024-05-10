@@ -22,7 +22,7 @@ function NavBar(){
             <Nav id='nav-bar-id' className="me-auto">
               
               <Nav.Link  href="#Home-Section" as={Link} to = "/">Home</Nav.Link>
-              <Nav.Link  href="#About-Section">About</Nav.Link>
+              
               <NavDropdown title="Projects" id="basic-nav-dropdown">
               <NavDropdown.Item href="#Projects-Section">GraveBook</NavDropdown.Item>
                 <NavDropdown.Item href="#Projects-Section">Movie App</NavDropdown.Item>
@@ -30,9 +30,9 @@ function NavBar(){
                 <NavDropdown.Divider />
               </NavDropdown>
               <Nav.Link  href="#Experience-Section">Experience</Nav.Link>
-              <Nav.Link href="#Skills-Section">Skills</Nav.Link>
+              
               <Nav.Link href="#Education-Section">Education</Nav.Link>
-              <Nav.Link href="#Education-Section">Volunteering</Nav.Link>
+              
               <Nav.Link href="#Contact-Section">Contact</Nav.Link>
 
             </Nav>
